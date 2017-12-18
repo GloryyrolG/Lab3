@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513557691 source:e:\study\作业\课设\lab3\huffman\main.cpp
+	"Huffman.h"
+
+1512953473 e:\study\作业\课设\lab3\huffman\huffman.h
+	<bits/stdc++.h>
+
+1513558445 source:e:\study\作业\课设\lab3\huffman\huffman.cpp
+	"Huffman.h"
+
